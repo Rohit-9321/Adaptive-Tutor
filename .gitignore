@@ -1,0 +1,12 @@
+# root ignores
+node_modules
+.DS_Store
+.env
+.env.*
+# api
+api/node_modules
+api/.env
+# web
+web/node_modules
+web/.env
+dist
